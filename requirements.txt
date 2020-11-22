@@ -1,0 +1,24 @@
+certifi==2020.11.8; python_version >= "3.6" \
+    --hash=sha256:1f422849db327d534e3d0c5f02a263458c3955ec0aae4ff09b95f195c59f4edd \
+    --hash=sha256:f05def092c44fbf25834a51509ef6e631dc19765ab8a57b4e7ab85531f0a9cf4
+influxdb-client==1.12.0; python_version >= "3.6" \
+    --hash=sha256:f233da171a2508274d4cebba3ec66d2cc4729229e66419aabeb20220e3b36c82 \
+    --hash=sha256:213cece87fbb71411c6d387d65e0cbc3d529bc37c734635e6ee4449443757331
+python-dateutil==2.8.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6" \
+    --hash=sha256:73ebfe9dbf22e832286dafa60473e4cd239f8592f699aa5adaf10050e6e1823c \
+    --hash=sha256:75bb3f31ea686f1197762692a9ee6a7550b59fc6ca3a1f4b5d7e32fb98e2da2a
+pytz==2020.4; python_version >= "3.6" \
+    --hash=sha256:5c55e189b682d420be27c6995ba6edce0c0a77dd67bfbe2ae6607134d5851ffd \
+    --hash=sha256:3e6b7dd2d1e0a59084bcee14a17af60c5c562cdc16d828e8eba2e683d3a7e268
+rx==3.1.1; python_full_version >= "3.6.0" and python_version >= "3.6" \
+    --hash=sha256:0e0f2715a3452e95dcb5d6ea28ffe5742e832592bbcc67a48f394ef8ba871e6f \
+    --hash=sha256:562851cfdb27fd5a218443cdbd682029684144dbafeb5dce34f6a709511282de
+six==1.15.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6" \
+    --hash=sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced \
+    --hash=sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259
+speedtest-cli==2.1.2 \
+    --hash=sha256:cf1d386222f94c324e3125ba9a0d187e46d4a13dca08c023bdb9a23096be2e54 \
+    --hash=sha256:2335306da12014c2da750db3befa3ddf424a303ddbaa399fbfb6a1bf870a5532
+urllib3==1.26.2; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version < "4" and python_version >= "3.6" \
+    --hash=sha256:d8ff90d979214d7b4f8ce956e80f4028fc6860e4431f731ea4a8c08f23f99473 \
+    --hash=sha256:19188f96923873c92ccb987120ec4acaa12f0461fa9ce5d3d0772bc965a39e08
